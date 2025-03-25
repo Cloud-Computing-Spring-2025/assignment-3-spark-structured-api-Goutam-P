@@ -1,4 +1,4 @@
-# handson-08-sparkSQL-dataframes-music-listening-trends
+# Assignment #3 Spark Structured API: Music Listener Behavior Analysis
 
 ## **Prerequisites**
 
